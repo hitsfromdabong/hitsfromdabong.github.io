@@ -3,7 +3,7 @@ layout: default
 mathjax: true
 ---
 
-## Welcome to GitHub Pages
+# Welcome to GitHub Pages
 
 test equation: $1 + 2 = x + y$
 
