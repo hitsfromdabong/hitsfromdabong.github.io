@@ -1,8 +1,11 @@
 ---
 layout: default
+mathjax: true
 ---
 
 ## Welcome to GitHub Pages
+
+test equation: $1 + 2 = x + y$
 
 You can use the [editor on GitHub](https://github.com/hitsfromdabong/hitsfromdabong.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
