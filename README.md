@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<https://www.hitsfromdabong.github.io>
+<https://hitsfromdabong.github.io>
 
 ## Welcome to GitHub Pages
 
