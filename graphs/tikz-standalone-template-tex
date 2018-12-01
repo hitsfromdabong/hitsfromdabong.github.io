@@ -1,0 +1,10 @@
+% main.tex
+% compile with `pdflatex -shell-escape main` or `xelatex  -shell-escape main`
+\documentclass[crop,tikz]{standalone}
+\usepackage{tikz}
+
+\begin{document}
+\begin{tikzpicture}
+
+\end{tikzpicture}
+\end{document}

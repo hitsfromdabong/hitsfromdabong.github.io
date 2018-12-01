@@ -10,8 +10,9 @@ some interesting stuff.
 
 # Study section
 
-[Guide to Fields and Waves](https://hitsfromdabong.github.io/faw)
-[Guide to feedback control](feedback)
+[Guide to Fields and Waves](fields_and_waves)
+
+[Guide to feedback control](control_theory)
 
 # Conspiracy section
 
@@ -20,6 +21,10 @@ some interesting stuff.
 # IT section
 
 # Geopolitical opinions
+
+# Aus der Neo-Welt
+
+[Ergonomic keyboard layouts](adnw)
 
 Disclaimer: What follows might be politically incorrect.
 

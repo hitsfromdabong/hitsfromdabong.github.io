@@ -12,6 +12,18 @@ some interesting stuff.
 
 [Guide to Fields and Waves](https://hitsfromdabong.github.io/faw)
 
+[Guide to feedback control](feedback)
+
+# Conspiracy section
+
+# Technology section
+
+# IT section
+
+# Geopolitical opinions
+
+Disclaimer: What follows might be politically incorrect.
+
 <!---
 
 # Welcome to GitHub Pages
